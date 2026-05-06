@@ -2,13 +2,13 @@
 
 A website dedicated to categorizing Israeli songs by mood and vibe, inspired by the laid-back, slow, and chill personality of a sloth. The platform organizes Israeli music into mood-based categories, reflecting a relaxed, easygoing aesthetic. The sloth mascot or theme suggests a calm, unhurried browsing experience with a playful and quirky personality.
 
-Source: https://-3f395367.zappy5.app
+Source: https://example.com
 
 ---
 
 ## שירים ישראלים לפי מצב רוח — אני לי שיר
 
-URL: https://-3f395367.zappy5.app
+URL: https://example.com
 Description: מחפש את השיר הישראלי המושלם לרגע הזה? אני לי שיר מארגנת מוזיקה ישראלית לפי מצב רוח בצורה רגועה ומהנה. היכנס, תרגע, ותמצא את השיר שמדבר אליך.
 
 שירים ישראלים לפי מצב רוח — אני לי שיר
@@ -570,7 +570,7 @@ Description: מחפש את השיר הישראלי המושלם לרגע הזה?
 
 ## מצא את הפלייליסט שמתאים לך עכשיו — אני לי שיר
 
-URL: https://-3f395367.zappy5.app/mood-guide
+URL: https://example.com/mood-guide
 Description: מדריך מצבי הרוח של אני לי שיר הוא המקום שבו מוזיקה ישראלית פוגשת את הנפש שלך. בחר את האווירה, גלה שירים מדויקים ותן למוזיקה לדבר בשבילך. כי כל רגע מגיע לו שיר משלו.
 
 מצא את הפלייליסט שמתאים לך עכשיו — אני לי שיר
@@ -1183,7 +1183,7 @@ Description: מדריך מצבי הרוח של אני לי שיר הוא המק�
 
 ## הקונספט העצלן שמשנה איך שומעים מוזיקה — אני לי שיר
 
-URL: https://-3f395367.zappy5.app/about
+URL: https://example.com/about
 Description: אני לי שיר נולדה מתוך אהבה למוזיקה ישראלית ורצון להאט קצת. גלה את הסיפור מאחורי הפלטפורמה שמארגנת שירים ישראלים לאירועים ולרגעים יומיומיים, עם קצת הומור ועצלנות מוסיקלית מרעננת.
 
 הקונספט העצלן שמשנה איך שומעים מוזיקה — אני לי שיר
@@ -1653,7 +1653,7 @@ Description: אני לי שיר נולדה מתוך אהבה למוזיקה יש
 
 ## שלח לנו שיר, רעיון או סתם שלום — אני לי שיר
 
-URL: https://-3f395367.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שיר ישראלי שחייב להיות בקטגוריה? רעיון לאווירה חדשה? אנחנו כאן ורוצים לשמוע. צור קשר עם אני לי שיר ובוא נבנה יחד את מאגר המוזיקה הישראלית לאירועים ולרגשות שכולנו צריכים.
 
 שלח לנו שיר, רעיון או סתם שלום — אני לי שיר
@@ -2165,7 +2165,7 @@ Description: יש לך שיר ישראלי שחייב להיות בקטגורי�
 
 ## מוצרים
 
-URL: https://-3f395367.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - אני לי שיר
 
 מוצרים - אני לי שיר
@@ -2382,7 +2382,7 @@ Description: המוצרים שלנו - אני לי שיר
 
 ## פרטי המוצר
 
-URL: https://-3f395367.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - אני לי שיר
 
 פרטי המוצר - אני לי שיר
@@ -2577,7 +2577,7 @@ Description: פרטי המוצר - אני לי שיר
 
 ## מוצרים
 
-URL: https://-3f395367.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - אני לי שיר
 
 מוצרים - אני לי שיר
@@ -2796,7 +2796,7 @@ Description: מוצרים - אני לי שיר
 
 ## מדיניות פרטיות
 
-URL: https://-3f395367.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3058,7 +3058,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-3f395367.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3329,7 +3329,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-3f395367.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

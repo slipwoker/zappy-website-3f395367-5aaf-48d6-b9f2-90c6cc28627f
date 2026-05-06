@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-3f395367.zappy5.app
+https://example.com
 מחפש את השיר הישראלי המושלם לרגע הזה? אני לי שיר מארגנת מוזיקה ישראלית לפי מצב רוח בצורה רגועה ומהנה. היכנס, תרגע, ותמצא את השיר שמדבר אליך.
 
 ### מדריך מצבי רוח
-https://-3f395367.zappy5.app/mood-guide
+https://example.com/mood-guide
 מדריך מצבי הרוח של אני לי שיר הוא המקום שבו מוזיקה ישראלית פוגשת את הנפש שלך. בחר את האווירה, גלה שירים מדויקים ותן למוזיקה לדבר בשבילך. כי כל רגע מגיע לו שיר משלו.
 
 ### אודות הקונספט
-https://-3f395367.zappy5.app/about
+https://example.com/about
 אני לי שיר נולדה מתוך אהבה למוזיקה ישראלית ורצון להאט קצת. גלה את הסיפור מאחורי הפלטפורמה שמארגנת שירים ישראלים לאירועים ולרגעים יומיומיים, עם קצת הומור ועצלנות מוסיקלית מרעננת.
 
 ### צור קשר
-https://-3f395367.zappy5.app/contact
+https://example.com/contact
 יש לך שיר ישראלי שחייב להיות בקטגוריה? רעיון לאווירה חדשה? אנחנו כאן ורוצים לשמוע. צור קשר עם אני לי שיר ובוא נבנה יחד את מאגר המוזיקה הישראלית לאירועים ולרגשות שכולנו צריכים.
 
 ### Products
-https://-3f395367.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - אני לי שיר
 
 ### Product Detail
-https://-3f395367.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - אני לי שיר
 
 ### Category
-https://-3f395367.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - אני לי שיר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-3f395367.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-3f395367.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-3f395367.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ A website dedicated to categorizing Israeli songs by mood and vibe, inspired by 
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-3f395367.zappy5.app/sitemap.xml
-- Robots: https://-3f395367.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-3f395367.zappy5.app/llms-full.txt
-- Products (JSON): https://-3f395367.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-3f395367.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
