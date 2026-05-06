@@ -1,0 +1,80 @@
+# אני לי שיר — Generative Engine Optimization Map
+
+> A website dedicated to categorizing Israeli songs by mood and vibe, inspired by the laid-back, slow, and chill personality of a sloth. The platform organizes Israeli music into mood-based categories, reflecting a relaxed, easygoing aesthetic. The sloth mascot or theme suggests a calm, unhurried browsing experience with a playful and quirky personality.
+
+---
+
+## Pages
+
+### בית
+https://-3f395367.zappy5.app
+מחפש את השיר הישראלי המושלם לרגע הזה? אני לי שיר מארגנת מוזיקה ישראלית לפי מצב רוח בצורה רגועה ומהנה. היכנס, תרגע, ותמצא את השיר שמדבר אליך.
+
+### מדריך מצבי רוח
+https://-3f395367.zappy5.app/mood-guide
+מדריך מצבי הרוח של אני לי שיר הוא המקום שבו מוזיקה ישראלית פוגשת את הנפש שלך. בחר את האווירה, גלה שירים מדויקים ותן למוזיקה לדבר בשבילך. כי כל רגע מגיע לו שיר משלו.
+
+### אודות הקונספט
+https://-3f395367.zappy5.app/about
+אני לי שיר נולדה מתוך אהבה למוזיקה ישראלית ורצון להאט קצת. גלה את הסיפור מאחורי הפלטפורמה שמארגנת שירים ישראלים לאירועים ולרגעים יומיומיים, עם קצת הומור ועצלנות מוסיקלית מרעננת.
+
+### צור קשר
+https://-3f395367.zappy5.app/contact
+יש לך שיר ישראלי שחייב להיות בקטגוריה? רעיון לאווירה חדשה? אנחנו כאן ורוצים לשמוע. צור קשר עם אני לי שיר ובוא נבנה יחד את מאגר המוזיקה הישראלית לאירועים ולרגשות שכולנו צריכים.
+
+### Products
+https://-3f395367.zappy5.app/products
+המוצרים שלנו - אני לי שיר
+
+### Product Detail
+https://-3f395367.zappy5.app/product/:slug
+פרטי המוצר - אני לי שיר
+
+### Category
+https://-3f395367.zappy5.app/category/:slug
+מוצרים - אני לי שיר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3f395367.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3f395367.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3f395367.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אני לי שיר
+A website dedicated to categorizing Israeli songs by mood and vibe, inspired by the laid-back, slow, and chill personality of a sloth. The platform organizes Israeli music into mood-based categories, reflecting a relaxed, easygoing aesthetic. The sloth mascot or theme suggests a calm, unhurried browsing experience with a playful and quirky personality.
+
+## Target Audience
+- חובבי מוזיקה לפי מצב רוח
+- חובבי מוזיקה ישראלית
+- מתכנני אירועים
+
+## Industry
+מוזיקה ובידור
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-3f395367.zappy5.app/sitemap.xml
+- Robots: https://-3f395367.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-3f395367.zappy5.app/llms-full.txt
+- Products (JSON): https://-3f395367.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-3f395367.zappy5.app/product-feed.xml
