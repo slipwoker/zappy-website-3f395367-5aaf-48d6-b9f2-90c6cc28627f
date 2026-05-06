@@ -350,7 +350,7 @@
       <div class="search-results" id="mobile-search-results"></div>
     </div>
   
-<script>window.ZAPPY_WEBSITE_ID = "3f395367-5aaf-48d6-b9f2-90c6cc28627f";window.ZAPPY_API_BASE = "https://api.zappy5.com";</script>
+<script>window.ZAPPY_WEBSITE_ID = "3f395367-5aaf-48d6-b9f2-90c6cc28627f";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
     <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
@@ -809,53 +809,16 @@
 </script>
   
   <main>
-    <section class="index-hero-section" data-layout-spec="בית-hero" dir="rtl" data-hero-type="fullscreen-scrim">
-  <!-- Background Image -->
-  <div class="index-hero-bg">
-    <img data-hero-bg="true" data-placeholder="index-hero-image-1" data-context="Warm cinematic indoor scene with soft afternoon sunlight streaming through a window onto a wooden table. Vintage vinyl records, retro headphones, a cup of tea, and scattered music notes create a cozy listening atmosphere. Warm terracotta and cream tones with subtle film grain texture. A small plush sloth toy sits near the records, evoking a slow, relaxed mood. Israeli music discovery platform aesthetic." width="1200" height="700" src="/assets/site-index-hero-image-1.webp" alt="סצנת האזנה לאווירה חמה ונינוחה עם תקליטים וינטג׳ ואוזניות בסלון מוצף אור שמש">
+    <section id="layout-1778068880381" class="layout-section" data-zappy-component="true" style="width: 100%; padding: 60px 0px; direction: rtl;">
+  <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
+  <div style="--zappy-grid-cols: 1fr 1fr; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08); display: grid; grid-template-columns: 1fr 1fr; gap: 0;" data-zappy-explicit-columns="true">
+    <div style="padding: 30px; display: flex; flex-direction: column; justify-content: center;">
+        <h3 style="font-size: 24px; font-weight: 600; color: #1F2937; margin-bottom: 15px; font-family: system-ui, -apple-system, sans-serif;">כותרת כרטיס</h3>
+        <p style="font-size: 16px; line-height: 1.6; color: #1F2937; opacity: 0.8; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 20px;">טקסט תיאור כרטיס נמצא כאן</p>
+        <p class="zappy-editable"><a href="#" style="display: inline-block; width: fit-content; padding: 10px 24px; background: #C96E4B; color: white; border-radius: 6px; text-decoration: none; font-size: 15px; font-weight: 500; font-family: system-ui, -apple-system, sans-serif;">למד עוד</a>
+      </p></div>
+    <div data-zappy-zoom-wrapper="true" data-element-id="img-1778068881164-mhl0b264i" data-element-type="image" data-zappy-zoom-wrapper-width="592px" data-zappy-zoom-wrapper-height="444px" data-zappy-zoom-wrapper-width-mode="px" data-zappy-zoom-wrapper-align="center" style="position: relative !important; overflow: hidden !important; width: 592px !important; max-width: 100% !important; margin-left: auto !important; margin-right: auto !important; height: 444px !important; display: block !important;" data-zappy-zoom-clip="true" data-zappy-wrapper-margins-applied="true"><img data-placeholder="layout-image-1778068880381-gm1pmlclk" data-context="תיאור תמונה" data-zappy-editable-image="true" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='300'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23C96E4B;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23C96E4B20;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23grad)'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='18' fill='white' text-anchor='middle' dy='.3em' font-weight='500'%3E%D7%AA%D7%99%D7%90%D7%95%D7%A8%20%D7%AA%D7%9E%D7%95%D7%A0%D7%94%3C/text%3E%3C/svg%3E" alt="תיאור תמונה" style="border-radius: 8px; object-position: 50% 50% !important; width: 100.056433% !important; height: 100% !important; display: block !important; object-fit: cover !important; margin: 0px !important; position: absolute !important; left: -0.034424% !important; top: 0% !important; max-width: none !important; max-height: none !important" class="layout-placeholder-image" data-element-type="image" data-element-id="img-1778068881164-mhl0b264i" data-zappy-zoom="1" data-zappy-object-position="50% 50%" data-zappy-mobile-object-position="50% 50%" data-zappy-mobile-zoom="1"></div>
   </div>
-
-  <!-- Scrim Overlay -->
-  <div class="index-hero-scrim" aria-hidden="true"></div>
-
-  <!-- Decorative leaf/branch motif -->
-  <svg class="index-hero-leaf-motif" data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 140 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M110 10 C90 30, 60 20, 50 50 C40 80, 70 90, 60 120 C50 150, 30 155, 20 150" stroke="#7C8A5A" stroke-width="2" fill="none" stroke-linecap="round"></path>
-    <path d="M110 10 C120 40, 100 55, 80 50" stroke="#7C8A5A" stroke-width="1.5" fill="none" stroke-linecap="round"></path>
-    <path d="M90 32 C100 55, 85 68, 68 65" stroke="#7C8A5A" stroke-width="1.5" fill="none" stroke-linecap="round"></path>
-    <path d="M72 70 C85 88, 75 105, 58 102" stroke="#7C8A5A" stroke-width="1.5" fill="none" stroke-linecap="round"></path>
-    <path d="M60 100 C75 115, 65 130, 48 128" stroke="#7C8A5A" stroke-width="1.5" fill="none" stroke-linecap="round"></path>
-    <circle cx="112" cy="8" r="4" fill="#7C8A5A" opacity="0.6"></circle>
-  </svg>
-
-  <!-- Content Card -->
-  <div class="index-hero-container">
-    <div class="index-hero-card">
-      <!-- Mood tag -->
-      <span class="index-hero-tag">🦥 גלה מוזיקה לפי מצב רוח</span>
-
-      <h1 class="index-hero-h1">שירים ישראלים<br>לפי הרגשה שלך</h1>
-
-      <h3 class="index-hero-subtitle">מוזיקה מסודרת לפי אווירה, קצב ורגש — כי לפעמים צריך את השיר הנכון לרגע הנכון. תגלה לאט, בנחת, בסגנון העצלן.</h3>
-
-      <div class="index-hero-ctas">
-        <a href="/contact" class="index-hero-btn-primary">
-          <i class="fa-solid fa-envelope"></i>
-          <span>צור קשר</span>
-        </a>
-        <a href="/moods" class="index-hero-btn-secondary">
-          <i class="fa-solid fa-music"></i>
-          <span>מדריך מצבי הרוח</span>
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <!-- Bottom Wave Divider -->
-  <div class="index-hero-divider-wrapper">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1440 90" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,90 L0,52 Q60,38 120,48 T240,42 Q300,50 360,40 T480,46 Q540,38 600,50 T720,42 Q780,52 840,40 T960,48 Q1020,38 1080,50 T1200,42 Q1260,50 1320,44 T1440,52 L1440,90 Z" fill="#F5F0EA"></path>
-    </svg>
   </div>
 </section>
 
@@ -1033,7 +996,7 @@
         <!-- Card 2 -->
         <article class="showcase-card showcase-card--small">
           <div class="card-image-wrapper card-image-wrapper--small">
-            <img data-placeholder="index-showcase-image-2" data-context="Golden hour sunset over Israeli landscape, friends gathered on a rooftop or balcony, warm amber and orange tones, outdoor gathering with fairy lights, celebratory relaxed mood, Israeli summer evening vibes" width="400" height="260" src="/assets/site-index-showcase-image-2.webp" alt="שקיעה ואנרגיית ערב" data-element-type="image" data-element-id="img-1778068395151-meryln437" >
+            <img data-placeholder="index-showcase-image-2" data-context="Golden hour sunset over Israeli landscape, friends gathered on a rooftop or balcony, warm amber and orange tones, outdoor gathering with fairy lights, celebratory relaxed mood, Israeli summer evening vibes" width="400" height="260" src="/assets/site-index-showcase-image-2.webp" alt="שקיעה ואנרגיית ערב" data-element-type="image" data-element-id="img-1778068395151-meryln437" style="">
             <div class="card-image-overlay"></div>
           </div>
           <div class="card-content">
@@ -1105,13 +1068,13 @@
 
 <section id="layout-1778068880381" class="layout-section" data-zappy-component="true" style="width: 100%; padding: 60px 0; direction: rtl;" data-component-id="imagecard-horizontal">
   <div class="container" style="max-width: 1200px; margin: 0 auto; padding: 0 1.5rem;">
-  <div style="--zappy-grid-cols: 1fr 1fr; background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08); display: grid; grid-template-columns: 1fr 1fr; gap: 0;" data-zappy-explicit-columns="true">
+  <div style="background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08); display: grid; grid-template-columns: 1fr 1fr; gap: 0;">
     <div style="padding: 30px; display: flex; flex-direction: column; justify-content: center;">
         <h3 style="font-size: 24px; font-weight: 600; color: #1F2937; margin-bottom: 15px; font-family: system-ui, -apple-system, sans-serif;">כותרת כרטיס</h3>
         <p style="font-size: 16px; line-height: 1.6; color: #1F2937; opacity: 0.8; font-family: system-ui, -apple-system, sans-serif; margin-bottom: 20px;">טקסט תיאור כרטיס נמצא כאן</p>
         <a href="#" style="display: inline-block; width: fit-content; padding: 10px 24px; background: #C96E4B; color: white; border-radius: 6px; text-decoration: none; font-size: 15px; font-weight: 500; font-family: system-ui, -apple-system, sans-serif;">למד עוד</a>
       </div>
-    <img data-placeholder="layout-image-1778068880381-gm1pmlclk" data-context="תיאור תמונה" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='300'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23C96E4B;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23C96E4B20;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23grad)'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='18' fill='white' text-anchor='middle' dy='.3em' font-weight='500'%3E%D7%AA%D7%99%D7%90%D7%95%D7%A8%20%D7%AA%D7%9E%D7%95%D7%A0%D7%94%3C/text%3E%3C/svg%3E" alt="תיאור תמונה" style="width: 100%; height: auto; display: block; border-radius: 8px; object-fit: cover;" class="layout-placeholder-image">
+    <img data-placeholder="layout-image-1778068880381-gm1pmlclk" data-context="תיאור תמונה" data-zappy-editable-image="true" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='300'%3E%3Cdefs%3E%3ClinearGradient id='grad' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23C96E4B;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23C96E4B20;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='100%25' fill='url(%23grad)'/%3E%3Ctext x='50%25' y='50%25' font-family='Arial, sans-serif' font-size='18' fill='white' text-anchor='middle' dy='.3em' font-weight='500'%3E%D7%AA%D7%99%D7%90%D7%95%D7%A8%20%D7%AA%D7%9E%D7%95%D7%A0%D7%94%3C/text%3E%3C/svg%3E" alt="תיאור תמונה" style="width: 100%; height: auto; display: block; border-radius: 8px; object-fit: cover;" class="layout-placeholder-image">
   </div>
   </div>
 </section>
